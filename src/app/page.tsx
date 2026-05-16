@@ -36,7 +36,7 @@ export default function LandingPage() {
         { name: "About", id: "about" },
         { name: "Contact", id: "contact" }
       ]}
-      brandName="Portfolio"
+      brandName="Tawfiq Abdallah's Portfolio"
     />
   </div>
 
